@@ -1,0 +1,24 @@
+✅ 01- Reverse a string
+✅ 02- Check for polindrome
+✅ 03- Fibonacci series
+✅ 04- Factorial of a number
+✅ 05- Prime number check
+✅ 06- Count vowels and consonants
+✅ 07- Sort an array
+✅ 08- Merge two arrays
+✅ 09- Find the largest element in an array
+✅ 10- Remove duplicates from an array
+✅ 11- Check if a number is armstrong
+✅ 12- Reverse a number
+✅ 13- Calculate GCD of two numbers
+✅ 14- Check for Anagram
+✅ 15- Count the number of digits in a number
+✅ 16- Print the prime numbers in a range
+✅ 17- Find the second largest element in an array
+✅ 18- Swap two numbers
+✅ 19- Print the Pascal's triangle
+✅ 20- Find the missing number in an array
+✅ 21- Convert decimal to binary
+✅ 22- Check for perfect number
+
+23 - Kaprekar constants // Already Done using C language
