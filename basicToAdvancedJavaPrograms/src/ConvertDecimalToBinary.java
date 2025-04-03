@@ -1,4 +1,3 @@
-package basicToAdvancedJavaPrograms;
 
 import java.util.Scanner;
 

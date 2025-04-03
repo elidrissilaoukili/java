@@ -1,4 +1,3 @@
-package basicToAdvancedJavaPrograms;
 
 public class CheckPerfect {
     public static void main(String[] args) {

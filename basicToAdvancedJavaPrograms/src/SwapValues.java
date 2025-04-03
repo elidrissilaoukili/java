@@ -1,4 +1,3 @@
-package basicToAdvancedJavaPrograms;
 
 public class SwapValues {
 
